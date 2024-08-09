@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago Duvanel!</h1>
 <h3 align="center">A passionate for cibersecurity, machine learning, software development and testing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=th-duvanel&label=Profile%20views&color=0e75b6&style=flat" alt="th-duvanel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th-duvanel" alt="th-duvanel" /></a> </p>
-
 - 🔭 I’m currently working on **a fuzzer for a new protocol called SPDM.**
 
 - 🌱 I’m currently learning **incident response and forensics.**
